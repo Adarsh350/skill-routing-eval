@@ -1,0 +1,16 @@
+{
+  "name": "skill-routing-eval",
+  "version": "1.0.0",
+  "description": "A/B harness for measuring whether a context injection changes agent behaviour",
+  "type": "module",
+  "license": "MIT",
+  "author": "Adarsh Shankar",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test test/score.test.mjs",
+    "eval": "node eval/run.mjs",
+    "audit": "node eval/audit.mjs"
+  }
+}
