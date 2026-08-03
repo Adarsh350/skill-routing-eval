@@ -1,0 +1,16 @@
+# Skills that route on their name alone — deliberately absent from the map.
+#
+# Indexing a skill called `pricing-strategy` teaches the agent nothing it can't read off
+# the name, and every indexed line is paid for in every session. Listing a name here is a
+# claim that the name is self-explanatory. Keep it honest: pad this list and the audit
+# stops catching the gaps it exists to catch.
+#
+# One name per line. `*` is a wildcard.
+
+pricing-strategy
+database-designer
+a11y-audit
+stripe-integration-expert
+deploy-to-vercel
+react-best-practices
+email-template-builder
