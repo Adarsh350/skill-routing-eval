@@ -2,4 +2,3 @@ node_modules/
 eval/fixtures.jsonl
 eval/history-*.jsonl
 .DS_Store
-graphify-out/
